@@ -1,3 +1,3 @@
-# DEmo for repository
+# Demo for github repository
 
-Discription
+Description
